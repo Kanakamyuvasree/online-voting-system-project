@@ -1,2 +1,2 @@
 # online-voting-system-project
-online voting system projrct description
+online voting system project description
