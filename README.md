@@ -42,7 +42,6 @@ Online-Voting-System/
 4. Start Apache and MySQL services and open the project in your browser:
    http://localhost/Online-Voting-System/
   
-
 ##  Note
 
 This project is for educational/demo purposes and not suitable for real-world elections without proper security audits.
