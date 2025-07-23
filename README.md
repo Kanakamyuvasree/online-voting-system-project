@@ -18,10 +18,10 @@ A secure and user-friendly web-based Online Voting System built using HTML, CSS,
 📂 Project Structure
 
 Online-Voting-System/
-├── admin/              # Admin dashboard and controls
-├── includes/           # DB connection and helper files
-├── images/             # Image assets
-├── voters/             # Voter dashboard
+├── admin         # Admin dashboard and controls
+├── includes         # DB connection and helper files
+├── images           # Image assets
+├── voters         # Voter dashboard
 ├── index.html          # Landing page
 ├── login.html          # User login page
 ├── register.html       # Voter registration page
